@@ -1,6 +1,6 @@
 # Shape-
 
-# Cicle
+# Circle
 
 public class Circle extends Shape
 {
